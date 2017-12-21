@@ -16,6 +16,7 @@
   * [Contributing & Dev Call](contribute/README.md)
     * [GIT Examples](contribute/git_examples.md)
     * [Documentation](contribute/docs.md)
+  * [Terminology/Notation](contribute/notation.md)
   * [Licenses](contribute/licenses.md)
 * [Concepts](concept/README.md)
   * [Architectural Overview](concept/architecture.md)
